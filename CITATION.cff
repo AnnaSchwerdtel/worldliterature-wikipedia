@@ -14,7 +14,7 @@ authors:
     affiliation: Humboldt-Universität zu Berlin
     email: robert.jaeschke@hu-berlin.de
 repository-code: >-
-  https://github.com/weltliteratur/worldliterature-wikipedia/tree/master/data
+  https://github.com/weltliteratur/worldliterature-wikipedia/tree/master
 abstract: >-
   This directory contains the following datasets:
 
